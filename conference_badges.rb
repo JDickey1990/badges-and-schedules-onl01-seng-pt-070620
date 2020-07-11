@@ -23,8 +23,8 @@ assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 
 def printer(badges, rooms)
   puts badges
+  puts rooms
  end
- return rooms
 end
 printer([batch_badge_creator],[assign_rooms])
 
