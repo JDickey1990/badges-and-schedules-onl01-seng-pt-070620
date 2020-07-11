@@ -22,8 +22,8 @@ end
 assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 
 def printer 
-  puts batch_badge_creator
-  puts assign_rooms
+  return batch_badge_creator
+  return assign_rooms
   end
 end
 
