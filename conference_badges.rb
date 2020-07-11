@@ -21,8 +21,8 @@ return room_assignments
 end
 assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 
-def printer (batch_badge_creator,assign_rooms)
-  
+def printer
+  puts ([batch_badge_creator])
+  puts ([assign_rooms])
   end
 end
-printer([batch_badge_creator,[assign_rooms]])
