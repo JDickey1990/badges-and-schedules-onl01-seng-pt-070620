@@ -22,7 +22,7 @@ end
 assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 
 def printer(badges, rooms)
-  return badges
+  puts badges
  end
  return rooms
 end
