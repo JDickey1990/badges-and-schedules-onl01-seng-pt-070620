@@ -26,6 +26,3 @@ def printer
   print assign_rooms
   end
 end
-
-
-end
