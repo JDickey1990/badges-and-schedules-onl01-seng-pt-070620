@@ -25,4 +25,4 @@ batch_badge_creator=badges
 assign_rooms=rooms
 def printer(badges, rooms)
 end
-printer
+
