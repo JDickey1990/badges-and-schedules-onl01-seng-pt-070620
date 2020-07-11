@@ -26,4 +26,4 @@ def printer
   end
   return ([assign_rooms])
 end
-printer
+
