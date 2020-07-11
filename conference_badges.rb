@@ -24,6 +24,6 @@ assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 def printer
   return ([batch_badge_creator])
   end
-  return ([assign_rooms])
+return ([assign_rooms])
 end
-
+printer
