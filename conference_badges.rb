@@ -1,3 +1,4 @@
+require "pry"
 def badge_maker(name)
    "Hello, my name is #{name}."
 end
@@ -19,6 +20,7 @@ return room_assignments
 end
 
 def printer(attendees)
-  batch_badge_creator(attendees)
+ badges= batch_badge_creator(attendees)
+ binding.pry
  end
 
