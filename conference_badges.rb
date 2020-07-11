@@ -20,3 +20,7 @@ def assign_rooms(speakers)
 return room_assignments
 end
 assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
+
+def printer 
+
+end
