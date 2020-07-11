@@ -11,10 +11,11 @@ def batch_badge_creator(badge_names)
 return badge_messages
 end
 batch_badge_creator(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
-room_assignments=[]
 
 def assign_rooms(speakers)
-  
+  room_assignments=[]
+  speakers.each_with_index do |rooms|
+    room_assignments<< ""
 end
 
 assign_room(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
