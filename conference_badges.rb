@@ -23,6 +23,11 @@ assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
 
 batch_badge_creator=badges
 assign_rooms=rooms
+
 def printer(badges, rooms)
+  return badges
+ end
+ return rooms
 end
+
 
