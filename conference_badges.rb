@@ -11,8 +11,10 @@ def batch_badge_creator(badge_names)
 return badge_messages
 end
 batch_badge_creator(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
+room_assignments=[]
 
 def assign_rooms(speakers)
+  
 end
 
-assign_room([])
+assign_room(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
