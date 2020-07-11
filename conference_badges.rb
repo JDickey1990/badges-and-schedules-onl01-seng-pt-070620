@@ -19,4 +19,4 @@ def assign_rooms(speakers)
  end
 return room_assignments
 end
-assign_room(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
+assign_rooms(["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
