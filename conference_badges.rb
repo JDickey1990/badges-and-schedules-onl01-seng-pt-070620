@@ -26,5 +26,4 @@ def printer(badges, rooms)
   puts rooms
  end
 end
-printer([batch_badge_creator],[assign_rooms])
 
