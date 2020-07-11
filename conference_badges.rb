@@ -1,4 +1,4 @@
 def badge_maker(name)
-  print "Hello, my name is #{name}."
+   "Hello, my name is #{name}."
 end
 badge_maker("Arel")
