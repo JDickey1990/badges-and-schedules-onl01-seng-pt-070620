@@ -10,4 +10,4 @@ def batch_badge_creator(badge_names)
   end
 return badge_messages
 end
-batch_badge_creator( badge_maker["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
+batch_badge_creator(badge_maker["Edsger","Ada","Charles","Alan","Grace","Linus,Matz"])
